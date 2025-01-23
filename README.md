@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL programs involving the REDEFINES clause.  Incorrectly using REDEFINES with different data types can lead to unexpected data corruption.  The solution shows how to avoid this issue by ensuring consistent data types and lengths across redefined fields.
